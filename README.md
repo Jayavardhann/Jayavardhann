@@ -24,9 +24,9 @@ Generative AI & NLP
 Data Engineering & Analytics
 📫 How to Reach Me:
 
-LinkedIn: [Your LinkedIn Profile]
-Email: [Your Email]
-GitHub: [Your GitHub Profile]
+LinkedIn: https://www.linkedin.com/in/m-k-jayavardhan/
+Email: mkjayavardhan@gmail.com
+
 ⚡ Fun Fact:
 
 I love exploring new AI architectures and optimizing them for real-world applications!
